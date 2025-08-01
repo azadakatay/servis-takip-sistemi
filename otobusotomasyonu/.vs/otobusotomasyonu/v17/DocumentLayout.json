@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0733CEC1-5867-4462-BC27-D71A4257DB73}|otobusotomasyonu\\otobusotomasyonu.csproj|c:\\users\\lenovo\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733CEC1-5867-4462-BC27-D71A4257DB73}|otobusotomasyonu\\otobusotomasyonu.csproj|solutionrelative:otobusotomasyonu\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733CEC1-5867-4462-BC27-D71A4257DB73}|otobusotomasyonu\\otobusotomasyonu.csproj|C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\bilgiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0733CEC1-5867-4462-BC27-D71A4257DB73}|otobusotomasyonu\\otobusotomasyonu.csproj|solutionrelative:otobusotomasyonu\\bilgiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733CEC1-5867-4462-BC27-D71A4257DB73}|otobusotomasyonu\\otobusotomasyonu.csproj|C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0733CEC1-5867-4462-BC27-D71A4257DB73}|otobusotomasyonu\\otobusotomasyonu.csproj|solutionrelative:otobusotomasyonu\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733CEC1-5867-4462-BC27-D71A4257DB73}|otobusotomasyonu\\otobusotomasyonu.csproj|C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0733CEC1-5867-4462-BC27-D71A4257DB73}|otobusotomasyonu\\otobusotomasyonu.csproj|solutionrelative:otobusotomasyonu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733CEC1-5867-4462-BC27-D71A4257DB73}|otobusotomasyonu\\otobusotomasyonu.csproj|c:\\users\\lenovo\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\bilgiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733CEC1-5867-4462-BC27-D71A4257DB73}|otobusotomasyonu\\otobusotomasyonu.csproj|solutionrelative:otobusotomasyonu\\bilgiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733CEC1-5867-4462-BC27-D71A4257DB73}|otobusotomasyonu\\otobusotomasyonu.csproj|c:\\users\\lenovo\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733CEC1-5867-4462-BC27-D71A4257DB73}|otobusotomasyonu\\otobusotomasyonu.csproj|solutionrelative:otobusotomasyonu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rapor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\Rapor.cs",
+              "RelativeDocumentMoniker": "otobusotomasyonu\\Rapor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\Rapor.cs",
+              "RelativeToolTip": "otobusotomasyonu\\Rapor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:56:55.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\Form2.cs",
+              "RelativeDocumentMoniker": "otobusotomasyonu\\Form2.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\Form2.cs",
+              "RelativeToolTip": "otobusotomasyonu\\Form2.cs",
+              "ViewState": "AgIAABQCAAAAAAAAAAAYwCsCAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:20:13.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bilgiler.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\bilgiler.cs",
+              "RelativeDocumentMoniker": "otobusotomasyonu\\bilgiler.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\bilgiler.cs",
+              "RelativeToolTip": "otobusotomasyonu\\bilgiler.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAYwGYBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:38:14.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bilgiler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\bilgiler.cs",
+              "RelativeDocumentMoniker": "otobusotomasyonu\\bilgiler.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\bilgiler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otobusotomasyonu\\bilgiler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:08:42.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\Form2.cs",
+              "RelativeDocumentMoniker": "otobusotomasyonu\\Form2.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otobusotomasyonu\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:09:26.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rapor.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\Rapor.cs",
+              "RelativeDocumentMoniker": "otobusotomasyonu\\Rapor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\otobusotomasyonu\\otobusotomasyonu\\Rapor.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otobusotomasyonu\\Rapor.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:08:22.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
